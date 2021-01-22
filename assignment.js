@@ -1,7 +1,7 @@
 
 
 
-//problem=1  kilomiter to meter start
+//problem=1  kilometer to meter start
 function kilometerToMeter(km){
     var meter = km*1000;
     return meter
@@ -10,7 +10,7 @@ function kilometerToMeter(km){
 var dhakaToCoxMeter = kilometerToMeter(400);
 console.log(dhakaToCoxMeter);
 
-// kilomiter to meter end
+// kilometer to meter end
 
 
 
